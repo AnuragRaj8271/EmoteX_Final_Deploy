@@ -1,0 +1,1 @@
+export default function MentalHealthPanel(){return (<div>MentalHealthPanel</div>)}

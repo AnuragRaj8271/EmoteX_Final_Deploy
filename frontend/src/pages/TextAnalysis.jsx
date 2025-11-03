@@ -1,0 +1,1 @@
+export default function TextAnalysis(){return (<div>TextAnalysis</div>)}

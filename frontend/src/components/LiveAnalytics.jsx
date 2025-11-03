@@ -1,0 +1,1 @@
+export default function LiveAnalytics(){return (<div>LiveAnalytics</div>)}

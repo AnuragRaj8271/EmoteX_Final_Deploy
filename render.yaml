@@ -1,0 +1,4 @@
+# render.com service blueprint (template)
+services:
+  - type: web
+    name: emotex-backend

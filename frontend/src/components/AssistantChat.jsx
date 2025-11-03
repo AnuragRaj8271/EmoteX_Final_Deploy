@@ -1,0 +1,1 @@
+export default function AssistantChat(){return (<div>AssistantChat</div>)}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "text": "Great product!",
+    "label": "real"
+  },
+  {
+    "id": 2,
+    "text": "Buy now!!!",
+    "label": "fake"
+  }
+]
