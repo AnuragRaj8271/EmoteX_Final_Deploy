@@ -3,3 +3,4 @@ uvicorn[standard]
 pydantic
 pytest
 python-multipart
+pydantic-settings
